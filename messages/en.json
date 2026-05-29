@@ -1,0 +1,48 @@
+{
+  "common": {
+    "appName": "Task Manager",
+    "language": {
+      "en": "English",
+      "de": "Deutsch"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Sign in",
+      "description": "Sign in to your Task Manager account.",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "submit": "Sign in",
+      "submitting": "Signing in...",
+      "noAccount": "No account?",
+      "registerLink": "Sign up"
+    },
+    "register": {
+      "title": "Sign up",
+      "description": "Create an account to manage your tasks.",
+      "nameLabel": "Name",
+      "namePlaceholder": "John Doe",
+      "emailLabel": "Email",
+      "passwordLabel": "Password",
+      "submit": "Create account",
+      "submitting": "Creating...",
+      "haveAccount": "Already have an account?",
+      "loginLink": "Sign in"
+    },
+    "errors": {
+      "invalidEmail": "Please enter a valid email.",
+      "passwordRequired": "Please enter a password.",
+      "nameMin": "Name must be at least 2 characters.",
+      "passwordMin": "Password must be at least 8 characters.",
+      "passwordLetter": "Password must contain at least one letter.",
+      "passwordDigit": "Password must contain at least one digit.",
+      "emailTaken": "A user with this email already exists.",
+      "invalidCredentials": "Invalid email or password."
+    }
+  },
+  "boards": {
+    "title": "Boards",
+    "signOut": "Sign out",
+    "comingSoon": "Your boards will appear here soon (Day 4)."
+  }
+}
